@@ -1,13 +1,10 @@
 # hydrology_R
 Hydrological analysis in R
 1 Hydro_File
-It should be evident from the lectures that digital elevation models (DEMs) have a great deal of potential for modelling surface
-water hydrology and related phenomena in drainage basins. Much of this work is based on the assumptions that (1) we 
-can trace the path that water will take from any point in an elevation grid to a basin outlet, and (2) the discharge of water from a particular
-location is directly related to its catchment area. This is a fairly reasonable assumption in most drainage basins.
 
-Overview
-In this lab exercise, we will use a DEM of the Upper Eskdale catchment to model flow-related phenomena, and will have gained experience in:
+digital elevation models (DEMs) have a great deal of potential for modelling surface water hydrology and related phenomena in drainage basins. 
+Much of this work is based on the assumptions that (1) we can trace the path that water will take from any point in an elevation grid to a basin outlet, and (2) the discharge of water from a particularlocation is directly related to its catchment area. This is a fairly reasonable assumption in most drainage basins.
+
 
 DEM pre-processing;
 Calculating flow parameters (e.g. pointers and contributing areas);
